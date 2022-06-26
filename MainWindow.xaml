@@ -8,8 +8,8 @@
         Title="MainWindow" Height="450" Width="800">
     <Grid>
         <StackPanel>
-            <Button Name="MainButton" Margin="184, 177, 380, 194" Click="MainButton_Click" Content="Kliknij mnie" ></Button>
-            <Label Name="MainLabel" Content="Label"/>
+            <Button Name="MainButton" Margin="50, 50, 600, 0" Click="MainButton_Click" Content="Kliknij mnie" Background="red"></Button>
+            <Label Name="MainLabel" Content="Label" />
         </StackPanel>
     </Grid>
 </Window>
